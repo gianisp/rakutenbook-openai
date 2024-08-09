@@ -4,6 +4,8 @@
 
 The Book Recommendation Chat App is a web application that integrates OpenAI's ChatGPT for book suggestions and uses the Rakuten API to fetch detailed book information. The app allows users to interact with a chatbot to get book recommendations and view relevant details about suggested books.
 
+![Alt text](https://github.com/gianisp/rakutenbook-openi/blob/main/20240809_12.46_chrome.gif)
+
 ## Features
 
 - **Chat Interface:** Users can chat with the application to receive book recommendations.
